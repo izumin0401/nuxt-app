@@ -1,2 +1,2 @@
-# nuxt-app
+# Nuxt-app
 Nuxt.js App
